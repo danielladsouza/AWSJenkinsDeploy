@@ -2,6 +2,7 @@
 # SPDX-License-Identifier: MIT-0
 
 from web import myapp
+
 import unittest
 
 # python -m unittest test_app
